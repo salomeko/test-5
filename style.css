@@ -17,13 +17,27 @@
   .main-picture {
     height: 600px;
     width: 1195px;
+    margin: 113px;
+    margin-bottom: 30px;
   }
   .sidekic-picture {
     width: 219px;
     height: 219px;
+    padding-left: 120px;
+    padding-inline: 25px;
 }
 .learn-more {
     color: white;
     background: blue;
   }
+  .main-text {
+    padding-left: 484.5px;
+    padding-right: 484.5px;
+    }
+    .first-question {
+      width: 714px;
+      height: 33px;
+      padding-left: 110px;
+      margin-bottom: 60px;
+    }
   
