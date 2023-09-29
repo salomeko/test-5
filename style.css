@@ -1,38 +1,50 @@
 .logo {
     height: 65px;
     width: 115px;
+    margin-top: -15px;
+    margin-left: 8px;
   }
   body {
-    background-color: blue;
+    background-color: white;
   }
   .info-wrapper a {
     color: white;
+    margin-left: 30px; ;
   }
   .connection {
     height: 55px;
     width: 160px;
     color: black;
     background: white;
+    margin-left: 960px;
+    margin-block-start: -90px;
   }
   .main-picture {
     height: 600px;
     width: 1195px;
     margin: 113px;
     margin-bottom: 30px;
+    margin-top: 23px;
   }
+  
   .sidekic-picture {
     width: 219px;
     height: 219px;
-    padding-left: 120px;
-    padding-inline: 25px;
-}
+    padding-left:  110px;
+    margin: -25px;
+  }
 .learn-more {
     color: white;
     background: blue;
+    border-radius: 55px;
+    margin-left: 600px;
+    margin-bottom: 113px;
   }
   .main-text {
-    padding-left: 484.5px;
-    padding-right: 484.5px;
+    padding-left: 110px;
+    padding-right: 110px;
+    margin-top: 60px;
+    margin-bottom: 58px;
     }
     .first-question {
       width: 714px;
@@ -40,4 +52,24 @@
       padding-left: 110px;
       margin-bottom: 60px;
     }
-  
+    .main-info-wrapper {
+    background-color: blue;
+    padding: 70px;
+    margin-bottom: -113px;
+  }
+  .main-bars{
+    display: inline;
+    list-style-type: none;
+    padding-left: 200px;
+    padding-inline: 20px;
+   }
+  .bottom-page {
+      background-color: blue;
+  }
+   .collector {
+   padding-left: 1000px;
+   background-color: blue;
+  }
+  .send-click {
+    padding-left: 1100px;
+  }
